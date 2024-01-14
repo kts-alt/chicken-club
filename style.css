@@ -20,6 +20,7 @@ nav {
 section {
   margin: 220px;
   background-color: #D3D3D3;
+/*  padding: 15px;*/
 }
 
 h1  {
@@ -54,8 +55,8 @@ li {
 }
 
 form input {
-/*  font-size: 25px;
-  display: block;*/
+  font-size: 25px;
+/*  display: block;*/
 }
 
 #greekChicken {
@@ -64,13 +65,13 @@ form input {
 }
 
 #grapefruitDrink {
-  max-width: 40%;
-  max-height: 40%;
+  max-width: 30%;
+  max-height: 30%;
   float: left;
 }
 
 #turkeydaySpecial {
-  max-width: 40%;
-  max-height: 40%;
+  max-width: 21.5%;
+  max-height: 21.5%;
   float: right;
 }
